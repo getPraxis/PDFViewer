@@ -1,7 +1,8 @@
 {
-  "orgName": "Demo company",
+  "orgName": "Praxis Solutions,LLC",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["EnableSetPasswordInApi","ProcessBuilder", 
+				        "AuthorApex"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true

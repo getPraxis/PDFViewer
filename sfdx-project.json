@@ -3,10 +3,24 @@
     {
       "path": "force-app",
       "default": true
+    },
+    {
+      "path": "force-app",
+      "package": "Praxis-PDFViewer",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": "LWC Components to display PDF's stored in Salesforce files"
     }
   ],
-  "name": "Praxis LWC Utilities",
-  "namespace": "",
+  "name": "PDFViewer",
+  "namespace": "Praxis",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0"
+  "sourceApiVersion": "60.0",
+  "packageAliases": {
+    "Praxis-PDFViewer": "0HoRN00000000kn0AA",
+    "Praxis-PDFViewer@0.1.0-1": "04tRN000000kqYHYAY",
+    "Praxis-PDFViewer@0.1.0-2": "04tRN000000kqEkYAI",
+    "Praxis-PDFViewer@0.1.0-3": "04tRN000000kvZZYAY"
+  }
 }
