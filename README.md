@@ -17,6 +17,6 @@ NOTE: By default Salesforce may download the PDF files instead of presenting the
 
 [Setup Menu - Updating the PDF Viewing option](..media/Media/File%20Upload%20and%20Download%20-%20Updating%20PDF%20File.png)
 
-## Installation Links:
+## Installation Links - Current Version 0.1
 - [Production](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tRN000000kvZZYAY)
 - [Sandbox](https://test.salesforce.com/packaging/installPackage.apexp?p0=04tRN000000kvZZYAY)
